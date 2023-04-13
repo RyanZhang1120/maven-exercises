@@ -1,1 +1,1 @@
-# maven-exercises
+# maven-dependencyExercises
